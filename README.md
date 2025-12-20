@@ -10,6 +10,17 @@
 </div>
 
 ---
+## 🟢 Neural Contribution Matrix
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bhupendra-003/bhupendra-003/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhupendra-003&theme=dracula&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff" />
+</div>
 
 ## ⚡ Technical Briefing
 
