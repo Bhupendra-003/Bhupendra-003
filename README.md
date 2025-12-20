@@ -6,7 +6,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/github/followers/bhupendra-003?label=NETWORK&style=for-the-badge&color=14532d&labelColor=064e3b" />
-    <img src="https://komarev.com/ghpvc/?username=bhupendra-003&label=RECON_VISITS&color=22c55e&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=bhupendra-003&label=VISITS&color=22c55e&style=for-the-badge" />
   </p>
 </div>
 
