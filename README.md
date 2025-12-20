@@ -10,7 +10,6 @@
 </div>
 
 ---
-## 🟢 Neural Contribution Matrix
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bhupendra-003/bhupendra-003/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -53,31 +52,6 @@
 | **Backend** | `Node.js` `Express` `MongoDB` `PostgreSQL` |
 | **Cloud/DevOps** | `AWS` `Docker` `Vercel` `Git/GitHub` |
 | **Design** | `Figma` `Adobe XD` `Canva` |
-
----
-
-## 📊 Neural Network Activity
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bhupendra-003&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=22c55e&icon_color=4ade80&text_color=94a3b8" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendra-003&layout=compact&theme=dark&hide_border=true&bg_color=020617&title_color=22c55e&text_color=94a3b8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhupendra-003&theme=dracula&hide_border=true&bg_color=020617&color=22c55e&line=22c55e&point=ffffff" />
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhupendra-003&theme=terminal&no-frame=true&no-bg=true&column=7" />
-</div>
-
----
 
 ## 📬 Establish Connection
 
