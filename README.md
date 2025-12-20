@@ -10,9 +10,6 @@
   </p>
 </div>
 
----
-
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhupendra-003/bhupendra-003/output/github-contribution-grid-snake-dark.svg">
@@ -44,30 +41,7 @@
 
 ---
 
-## ⚡ Technical Briefing
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Current Mission</h3>
-      <ul>
-        <li><b>ForgeIDE:</b> Engineering a next-gen development environment.</li>
-        <li><b>Cloud Mastery:</b> Diving deep into <b>AWS</b> architecture.</li>
-        <li><b>Performance:</b> Optimizing React render cycles for zero-lag UX.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 Growth Logs</h3>
-      <code>[2025]</code> Scaling distributed systems.<br/>
-      <code>[Current]</code> AWS Lambda & DynamoDB integration.<br/>
-      <code>[Status]</code> <b>Active & Open for Collaborations.</b>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠 Tech Arsenal
+## My Favourite Tech
 
 <div align="center">
 
@@ -81,7 +55,7 @@
 
 ---
 
-## 📊 Neural Activity Logs
+## Neural Activity Vitals
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhupendra-003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=4ade80&text_color=94a3b8" />
