@@ -11,7 +11,6 @@
 
 ---
 
-## 🟢 System Vitality (Contribution Snake)
 
 <div align="center">
   <picture>
