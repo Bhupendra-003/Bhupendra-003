@@ -32,11 +32,11 @@
   <a href="mailto:bhupendra.raj003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Bhupendra045/">
-    <img src="https://img.shields.io/github/followers/bhupendra-003?label=NETWORK&style=for-the-badge&color=14532d&labelColor=064e3b" />
-  </a>
-  <a href="https://x.com/Bhupiii__">
-    <img src="https://komarev.com/ghpvc/?username=bhupendra-003&label=VISITS&color=22c55e&style=for-the-badge" />
+  <a href="https://x.com/intent/follow?screen_name=Bhupiii__">
+  <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+  <a href="https://leetcode.com/Bhupendra045">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   
   
