@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=064e3b&height=180&section=header&text=BHUPENDRA%20SINGH%20RAJPUT&fontSize=45&animation=fadeIn&fontColor=4ade80" />
   
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Frontend+Architect;AWS+Cloud+Explorer;UI/UX+Strategist;Building+ForgeIDE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Frontend+Architect;UI/UX+Strategist;Building+ForgeIDE" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://img.shields.io/github/followers/bhupendra-003?label=NETWORK&style=for-the-badge&color=14532d&labelColor=064e3b" />
