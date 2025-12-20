@@ -21,6 +21,27 @@
   </picture>
 </div>
 
+<div align="center">
+  <br/>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://Bhupendra03.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:bhupendra.raj003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Bhupendra045/">
+    <img src="https://img.shields.io/github/followers/bhupendra-003?label=NETWORK&style=for-the-badge&color=14532d&labelColor=064e3b" />
+  </a>
+  <a href="https://x.com/Bhupiii__">
+    <img src="https://komarev.com/ghpvc/?username=bhupendra-003&label=VISITS&color=22c55e&style=for-the-badge" />
+  </a>
+  
+  
+</div>
+
 ---
 
 ## ⚡ Technical Briefing
@@ -73,25 +94,8 @@
 
 ---
 
-## 🏆 Achievements
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhupendra-003&theme=terminal&no-frame=true&no-bg=true&column=7" />
-</div>
-
----
-
-## 📬 Establish Connection
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://Bhupendra03.vercel.app)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupendra.raj003@gmail.com)
-
   <br/>
-
-  > "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
-
+  <blockquote> "Code is like humor. When you have to explain it, it’s bad." – <i>Cory House</i></blockquote>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
