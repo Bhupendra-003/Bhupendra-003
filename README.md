@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=BHUPENDRA%20SINGH%20RAJPUT&fontSize=50&textBg=false&fontColor=fff&fontAlign=50&fontAlignY=42&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=064e3b&height=180&section=header&text=BHUPENDRA%20SINGH%20RAJPUT&fontSize=45&animation=fadeIn&fontColor=4ade80" />
   
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Frontend+Architect;AWS+Cloud+Explorer;UI/UX+Strategist;Building+ForgeIDE" alt="Typing SVG" />
